@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python and Data Structures
 - 💞️ I’m looking to collaborate on Data Architecture
-- 📫 How to reach me on Slack
+- 📫 How to reach me on Slack: @TP
 
 <!---
 TanmoyPorel/TanmoyPorel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
