@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TanmoyPorel
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python and Data Structures
-- 💞️ I’m looking to collaborate on Data Architecture
+- 👀 I’m leading Data Analytics team
+- 🌱 I’m proficient in SQL and Python
+- 💞️ I’m open to collaborate on topics of Data Science and Data Architecture
 - 📫 How to reach me on Slack: @TP
 
 <!---
